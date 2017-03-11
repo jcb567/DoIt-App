@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "F9F671FEA5F46357B953B621394FD69B850D2BCB",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "51D64CEE8A076C9C04E68C249E114CF00BAABD0B" : 9223372036854775807,
+    "F9F671FEA5F46357B953B621394FD69B850D2BCB" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "205A6BA3-4CAA-4168-AF58-17E88C77CBD2",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "51D64CEE8A076C9C04E68C249E114CF00BAABD0B" : "..",
+    "F9F671FEA5F46357B953B621394FD69B850D2BCB" : "DoIt%20App\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "DoIt App",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "DoIt App.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jcb567\/xcode-no1-.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "51D64CEE8A076C9C04E68C249E114CF00BAABD0B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jcb567\/DoIt-App.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F9F671FEA5F46357B953B621394FD69B850D2BCB"
+    }
+  ]
+}

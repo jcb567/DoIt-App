@@ -10,6 +10,10 @@ import UIKit
 
 class CreateTaskViewController: UIViewController {
     
+    
+    var task = Task()
+    
+    
     @IBOutlet weak var importantSwitch: UISwitch!
     @IBOutlet weak var taskNameTextField: UITextField!
     
@@ -24,6 +28,9 @@ class CreateTaskViewController: UIViewController {
 
     @IBAction func addTapped(_ sender: Any) {
         // Create a task from the outlet's information
+        
+        let context = (UIApplication.shared.delegate as! AppDelegate).persistentContainer.viewContext
+        
         
         let task = Task()
         task.name = taskNameTextField.text!
